@@ -1,6 +1,6 @@
 # Automated Stock Trading System
 
-markdown
+
 # Automated Stock Trading System
 
 ## Part 1: Stock Data Downloader

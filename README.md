@@ -1,9 +1,9 @@
-# Automated Stock Trading System
+#Automated Stock Trading System
 
 ```markdown
 # Automated Stock Trading System
 
-## Part 1: Stock Data Downloader
+##Part 1: Stock Data Downloader
 
 ### Overview
 This Python script facilitates the dynamic download and preprocessing of stock data from Yahoo Finance, enhancing data accuracy and availability for subsequent analysis.

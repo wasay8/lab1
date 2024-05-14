@@ -1,5 +1,3 @@
-# Automated Stock Trading System
-
 
 # Automated Stock Trading System
 

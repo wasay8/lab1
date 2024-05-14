@@ -1,1 +1,1 @@
-# lab3
+# Automated Stock Trading System
